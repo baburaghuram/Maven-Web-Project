@@ -6,7 +6,7 @@ node {
 
           checkout scm
        }
-
+/*
        stage('BuildArtifact'){
 
          // bat 'mvn install'
@@ -21,3 +21,4 @@ node {
 	
        
 }
+*/
