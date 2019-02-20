@@ -79,6 +79,8 @@
 		</dependency>
   </dependencies>
 
+	<!--
+
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
@@ -90,7 +92,8 @@
 	      <name>Mithun Technologies Snapshot Nexus Repository</name>
 	      <url></http://ec2-52-66-201-87.ap-south-1.compute.amazonaws.com:8081/repository/mavensnapshot/url>
 	    </snapshotRepository>
-	</distributionManagement>
+	</distributionManagement> 
+		-->
 	
 	
   <build>
