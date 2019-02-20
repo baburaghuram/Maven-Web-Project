@@ -83,12 +83,12 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://ec2-13-127-238-245.ap-south-1.compute.amazonaws.com:8081/repository/malli/</url>
+	      <url>http://ec2-13-233-232-129.ap-south-1.compute.amazonaws.com:8081/repository/malli/</url>
 	    </repository>
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://ec2-13-127-238-245.ap-south-1.compute.amazonaws.com:8081/repository/mallisnapshopt/</url>
+	      <url>http://ec2-13-233-232-129.ap-south-1.compute.amazonaws.com:8081/repository/mallisnapshopt/</url>
 	    </snapshotRepository>
 </distributionManagement>
 	
